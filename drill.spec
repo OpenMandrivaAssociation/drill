@@ -8,6 +8,7 @@ URL:		http://www.nlnetlabs.nl/dnssec/drill.html
 Source0:	http://www.nlnetlabs.nl/downloads/drill/%{name}-%{version}.tar.bz2
 BuildRequires:	openssl-devel
 BuildRequires:	autoconf2.5
+BuildRoot:	%{_tmppath}/%{name}-root
 
 %description
 Drill is a tool ala dig from BIND. It was designed with DNSSEC in
