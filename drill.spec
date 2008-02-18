@@ -1,4 +1,4 @@
-Summary:	Drill is a tool ala dig from BIND
+Summary:	Tool ala dig from BIND
 Name:		drill
 Version:	0.9.2
 Release:	%mkrel 1
