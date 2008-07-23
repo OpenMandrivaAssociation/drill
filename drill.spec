@@ -1,7 +1,7 @@
 Summary:	Tool ala dig from BIND
 Name:		drill
 Version:	0.9.2
-Release:	%mkrel 2
+Release:	%mkrel 4
 License:	GPL
 Group:		Networking/Other
 URL:		http://www.nlnetlabs.nl/dnssec/drill.html
