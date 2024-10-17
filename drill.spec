@@ -4,7 +4,7 @@ Version:	0.9.2
 Release:	8
 License:	GPL
 Group:		Networking/Other
-URL:		http://www.nlnetlabs.nl/dnssec/drill.html
+URL:		https://www.nlnetlabs.nl/dnssec/drill.html
 Source0:	http://www.nlnetlabs.nl/downloads/drill/%{name}-%{version}.tar.bz2
 BuildRequires:	openssl-devel
 BuildRequires:	autoconf2.5
