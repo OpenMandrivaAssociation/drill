@@ -6,6 +6,10 @@ License:	GPL
 Group:		Networking/Other
 URL:		https://www.nlnetlabs.nl/dnssec/drill.html
 Source0:	http://www.nlnetlabs.nl/downloads/drill/%{name}-%{version}.tar.bz2
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	openssl-devel
 BuildRequires:	autoconf2.5
 BuildRoot:	%{_tmppath}/%{name}-root
